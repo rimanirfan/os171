@@ -1,0 +1,4 @@
+#Muhammad Riman Irfanto
+#Kelas Operating System D
+#NPM : 1506688916
+Learn how to create a new file on your local repository and push it to github. Update your local repository using command "git pull".
