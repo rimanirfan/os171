@@ -1,0 +1,6 @@
+w02-170221-13-LR-About:Security,From:Lecturer
+w02-170221-13-LR-About:Security,From:Lecturer
+w02-170221-14-LR-About:Security,From:Lecturer
+w02-170223-13-LR-About:Intro to C Programming,From:Lecturer
+w02-170223-13-LR-About:Intro to C Programming,From:Lecturer
+w02-170223-14-LR-About::Intro to C Programming,From:Lecturer
